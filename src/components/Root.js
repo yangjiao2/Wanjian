@@ -10,6 +10,7 @@ import {
 import App from './App';
 import Home from './Home';
 import About from './About';
+import SupportUs from './SupportUs';
 import Page from './Page';
 
 const Root = (props) => {
@@ -20,6 +21,7 @@ const Root = (props) => {
           <Route exact path="/" component={Home} />
           <Route path="/about" component={About} />
           <Route path="/pages/:id" component={Page} />
+          <Route path="/SupportUs" component={SupportUs} />
           <Route path="*" component={Home} />
         </Switch>
       </App>
