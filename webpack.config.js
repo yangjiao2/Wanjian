@@ -14,7 +14,7 @@ module.exports = {
     ],
   },
   resolve: {
-    extensions: [".js", ".scss", ".png"],
+    extensions: [".js", ".scss", ".png", ".jpg"],
   },
   output: {
     path: path.join(__dirname, "/dist"),
