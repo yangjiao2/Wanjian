@@ -9,6 +9,11 @@ This is a simple starter to get you up and running for React Router projects. Th
 * a similar setup to what you'll see in the wild
 * Heroku-ready deployment setup
 
+
+## DEMO
+
+[Demo] (https://github.com/yangjiao2/Wanjian/blob/master/demo/page1.png)
+
 ## UP & RUNNING
 * Install dependencies
 `$ npm install` or `$ yarn`
